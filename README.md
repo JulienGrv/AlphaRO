@@ -15,6 +15,7 @@ Downloads
 --------------------------------------------------------------
 
 1. Alpha Client: http://www.mediafire.com/file/a5tadpeezm5u77e/iRO_Alpha_Client.7z
+Mirror: https://drive.google.com/open?id=1ChaF0gGtpphPhP5LMYU9xG7vOkdyUTrP
 2. Emulator: Check Building section
 
 --------------------------------------------------------------
